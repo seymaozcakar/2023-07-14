@@ -1,0 +1,8 @@
+1.Collections
+Array - int[]
+ArrayList
+List (Generic Collection)
+
+
+Key-Value
+adi="arda"
